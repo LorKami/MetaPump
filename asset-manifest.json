@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.c364866e.css",
-    "main.js": "/static/js/main.c5598f2d.js",
+    "main.js": "/static/js/main.65b0dc9f.js",
     "static/media/presale.png": "/static/media/presale.7e11d4929bae76b4e8b3.png",
     "static/media/manta.png": "/static/media/manta.0dcfb70173294cf1a55e.png",
     "index.html": "/index.html",
     "main.c364866e.css.map": "/static/css/main.c364866e.css.map",
-    "main.c5598f2d.js.map": "/static/js/main.c5598f2d.js.map"
+    "main.65b0dc9f.js.map": "/static/js/main.65b0dc9f.js.map"
   },
   "entrypoints": [
     "static/css/main.c364866e.css",
-    "static/js/main.c5598f2d.js"
+    "static/js/main.65b0dc9f.js"
   ]
 }
