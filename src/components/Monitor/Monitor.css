@@ -1,0 +1,166 @@
+.Monitor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+
+.Logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid white; */
+    width: 30%;
+}
+
+.Logo img {
+    width: 60%;
+    height: 60%;
+    object-fit: contain;
+}
+
+.SocialBtn {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 30%;
+    /* border: 1px solid white; */
+}
+
+.SocialBtn a {
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+}
+
+.SocialBtn a:hover {
+    color: rgb(190, 190, 190);
+}
+
+.MantaInformation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 60%;
+    margin-top: 30px;
+    /* border: 1px solid white; */
+}
+
+.MantaInfoBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    /* border: 1px solid white; */
+}
+
+.MantaInfoTitle {
+    display: flex;
+}
+
+.MantaInfoTitle h2 {
+    color: white;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.MantaInfoText {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.MantaInfoText p {
+    color: white;
+    font-weight: 700;
+}
+
+.MantaInfoImage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    /* border: 1px solid white; */
+}
+
+.MantaInfoImage img {
+    width: 80%;
+    height: 80%;
+    object-fit: contain;
+}
+
+.Tokenomics {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    /* border: 1px solid white; */
+}
+
+.TitleToke {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.TitleToke h2 {
+    color: white;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.TokeBoxes {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+    /* border: 1px solid white; */
+}
+
+.TokeInfo {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.TokeInfo p {
+    color: rgb(9, 196, 221);
+    font-weight: 800;
+}
+
+.TokeBtn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    /* border: 1px solid white; */
+}
+
+.TokeBtnUp,
+.TokeBtnDown {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.TokeBtnUp a,
+.TokeBtnDown a {
+    text-decoration: none;
+    color: rgb(255, 190, 190);
+    font-weight: 800;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
+
+.TokeBtnUp a:hover,
+.TokeBtnDown a:hover {
+    color: rgb(190, 190, 190);
+}
